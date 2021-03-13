@@ -171,12 +171,12 @@ module.exports = {
       ]
    },
    titles: {
-      codeInvalid: 'Invalid Code',
-      codeAlreadyRedeemed: 'Already Redeemed Code',
-      codeSuccess: 'Nitro Sniped',
-      giveawayEntered: 'Giveaway Entered',
-      giveawayWin: 'Giveaway Won',
-      inviteJoin: 'Joined Server'
+      codeInvalid: 'Invalid',
+      codeAlreadyRedeemed: 'Already Used',
+      codeSuccess: 'awped',
+      giveawayEntered: 'Entered',
+      giveawayWin: 'Won',
+      inviteJoin: 'Joined'
    },
    colors: {
       error: '#FF0000',
